@@ -35,7 +35,8 @@ To build the Morse Code Machine, you'll need the following components:
 | R1, R2, R4, R5| 4        | 1 kΩ Resistor         |
 | D2           | 1        | Green LED             |
 | PIEZ01       | 1        | Piezo                 |
-| R3           |          |                       |
+| R3           | 1        | Photoresistor         |
+| S1           | 1        | Pushbutton            |
 
 
 
