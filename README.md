@@ -27,19 +27,19 @@ To build the Morse Code Machine, you'll need the following components:
   * __Buzzer__: Used to output the audial (sound) represtation of the Morse Code in Encoding mode.
   * __Push Button__: Used to output the final Morse Visual Signal after being decoded.
 
-|Name|Quantity|Component|
-|----|--------|---------|
-|U1|1|Arduino Uno R3|
-|Rpot1|1|250 kΩ Potentiometer|
-|D1|1|Red LED|
-|R1
-R2
-R4
-R5|4|1 kΩ Resistor|
-|D2|1|Green LED|
-|PIEZO1|1|Piezo (Buzzer)|
-|R3|1|Photoresistor|
-|S1|1|PushButton|
+| Name         | Quantity | Component             |
+| ------------ | -------- | --------------------- |
+| U1           | 1        | Arduino Uno R3        |
+| Rpot1        | 1        | 250 kΩ Potentiometer  |
+| D1           | 1        | Red LED               |
+| R1           |          |                       |
+| R2           |          |                       |
+| R4           |          |                       |
+| R5           | 4        | 1 kΩ Resistor         |
+| D2           | 1        | Green LED             |
+| PIEZ01       | 1        | Piezo                 |
+| R3           |          |                       |
+
 
 
 ## Wiring Instructions
