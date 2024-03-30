@@ -30,6 +30,17 @@ To build the Morse Code Machine, you'll need the following components:
 |Name|Quantity|Component|
 |----|--------|---------|
 |U1|1|Arduino Uno R3|
+|Rpot1|1|250 kΩ Potentiometer|
+|D1|1|Red LED|
+|R1|||
+|R2|||
+|R4|||
+|R5|4|1 kΩ Resistor|
+|D2|1|Green LED|
+|PIEZO1|1|Piezo (Buzzer)|
+|R3|1|Photoresistor|
+|S1|1|PushButton|
+
 
 ## Wiring Instructions
 A visual PDF represntation of the Morse Code Machine is found which can be used to help you.
