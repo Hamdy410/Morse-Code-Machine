@@ -1,6 +1,6 @@
 # Morse-Code-Machine
 
-# Author: Hamdy Ousama Hamdy (Zain410)
+# Author: Hamdy Osama(Hamdy410)
 
 # Project Description
 ## Overview
